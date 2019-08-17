@@ -1,0 +1,7 @@
+For this program,  it monitors Create.csv, Mode.csv, Delete.csv and ChangeState.csv four files. When the content of these file changed, the program will load and read the changed file 
+and act accordingly. When there is no changed, the program will keep monitoring. To better see what happen when these file changed, I write some codes to make the program load 
+and read these file directly and see the output.
+To run this program, first enter javac *.java to complie all the code files in the directory of the code file and then enter java FileMonitor to see the output in the console.
+You can also import the code files into the eclipse to run this program.
+After running the program, if you don't it keep running, enter ctrl+c to end the program.
+You will see the output of Create.csv, Mode.csv and ChangeState.csv. When load and read Delete.csv file, there is no output as the associated code has no output statement

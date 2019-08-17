@@ -1,0 +1,28 @@
+SpaceInvadersCW2:
+
+Open eclipse and import all source file(SpaceInvadersCW2), then click run button to run the program.
+
+The new level(taskA) is set to level 3, press L two times to reach the third level.
+
+New weapon have a chance to appear when killing enemies.
+
+
+
+Sprite Editor:
+
+Open eclipse and import all source file(Sprite Editor), then click run button to run the program. 
+(There is a runnable file called Sprite Editor.jar which located in Sprite Editor\bin folder. You can run this program directly with a double click of the mouse)
+
+There are several buttons on the interface:
+
+The initialization button: Initialize the artboard with 32X32 Whiteboard.
+
+The load button: allow user to load a .png image file
+
+The color picker: User can select a set color or a custom color by clicking this button.
+
+The reset button: Allow user to reset the current image
+
+The save button: User can save the modified image as .png file
+
+
